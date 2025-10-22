@@ -1,2 +1,1 @@
-Kudaev Danil
-ошибка теста
+Изменение из feature/conflict
